@@ -25,7 +25,7 @@ To generate more focal stack samples, please follow these instructions:
 \
 Please cite the following papers when you are using this code:
 
-**HJavidnia, H. and Corcoran, P., 2017. The Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack. arXiv preprint arXiv:1711.07721.**
+**Javidnia, H. and Corcoran, P., 2017. The Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack. arXiv preprint arXiv:1711.07721.**
 
 If you are using the [EPFL Light-Field Image Dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) please cite:
 
