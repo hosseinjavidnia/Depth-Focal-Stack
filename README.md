@@ -8,8 +8,8 @@ The code is written and compiled in MATLAB R2017a x64.
 To run the code please follow these instructions:
 
 1. Download the repository.
-2. Run the "Run.m" file in MATLAB.
-3. Extract the "opencv_imgproc310d.zip" file and copy the "opencv_imgproc310d.dll" file to the main directory, next to other dlls.
+2. Extract the "opencv_imgproc310d.zip" file and copy the "opencv_imgproc310d.dll" file to the main directory, next to other dlls.
+3. Run the "Run.m" file in MATLAB.
 
 \
 A sample focal stack set is located in the "Data" folder.
