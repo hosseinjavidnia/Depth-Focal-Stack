@@ -13,6 +13,7 @@ To run the code please follow these instructions:
 
 \
 A sample focal stack set is located in the "Data" folder.
+
 To generate focal stack samples from EPFL light-field sets, please follow these instructions:
 1. Download the .LFR files from [EPFL Light-Field Image Dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset).
 2. Download and install [Lytro Desktop Software](https://support.lytro.com/hc/en-us/articles/115003127732-Download-Lytro-Desktop).
