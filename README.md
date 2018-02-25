@@ -9,10 +9,11 @@ To run the code please follow these instructions:
 
 1. Download the repository.
 2. Run the "Run.m" file in MATLAB.
+3. Extract the "opencv_imgproc310d.zip" file and copy the "opencv_imgproc310d.dll" file to the main directory, next to other dlls.
 
 \
-A sample focal stack set is located in the Data folder. This sample is generated from the [EPFL Light-Field Image Dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset).
-To generate more focal stack samples, please follow these instructions:
+A sample focal stack set is located in the "Data" folder.
+To generate focal stack samples from EPFL light-field sets, please follow these instructions:
 1. Download the .LFR files from [EPFL Light-Field Image Dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset).
 2. Download and install [Lytro Desktop Software](https://support.lytro.com/hc/en-us/articles/115003127732-Download-Lytro-Desktop).
 3. Open the LFR file in Lytro Software.
