@@ -1,7 +1,7 @@
-# The Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack
+# Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack
 This repository contains the code for the method presented in the following paper:
 
-**Javidnia, H. and Corcoran, P., 2017. "The Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack". arXiv preprint arXiv:1711.07721.**
+**Hossein Javidnia, Peter Corcoran, "Application of preconditioned alternating direction method of multipliers in depth from focal stack," Journal of Electronic Imaging 27(2), 023019 (6 April 2018). https://doi.org/10.1117/1.JEI.27.2.023019.**
 
 \
 The code is written and compiled in MATLAB R2017a x64.
@@ -27,7 +27,7 @@ To generate focal stack samples from .LFR light-field sets, please follow these 
 \
 Please cite the following papers when you are using this code:
 
-**Javidnia, H. and Corcoran, P., 2017. The Application of Preconditioned Alternating Direction Method of Multipliers in Depth from Focal Stack. arXiv preprint arXiv:1711.07721.**
+**Hossein Javidnia, Peter Corcoran, "Application of preconditioned alternating direction method of multipliers in depth from focal stack," Journal of Electronic Imaging 27(2), 023019 (6 April 2018). https://doi.org/10.1117/1.JEI.27.2.023019.**
 
 If you are using the [EPFL Light-Field Image Dataset](https://mmspg.epfl.ch/EPFL-light-field-image-dataset) please cite:
 
